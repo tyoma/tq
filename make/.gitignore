@@ -1,0 +1,9 @@
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.user
+!*.tests.vcxproj.user
+*.ipch
+_*
+.DS_Store

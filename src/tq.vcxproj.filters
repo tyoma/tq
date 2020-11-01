@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="..\tq\queue.h" />
+    <ClInclude Include="..\tq\timer.h" />
+    <ClInclude Include="..\tq\queues.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{fa4d394d-9a14-4f9c-9a70-8c28d1737d23}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
